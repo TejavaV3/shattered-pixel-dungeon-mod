@@ -17,7 +17,7 @@ buildscript {
 allprojects {
 
     ext {
-        appName = 'Modded    Pixel Dungeon'
+        appName = 'Modded Pixel Dungeon'
         appPackageName = 'com.moddedpixel.moddedpixeldungeon'
 
         appVersionCode = 803
